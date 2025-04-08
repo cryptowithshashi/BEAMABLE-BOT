@@ -1,0 +1,29 @@
+{
+  "name": "beamable-bot-script",
+  "version": "1.1.0",
+  "description": "A script to automate daily tasks on Beamable.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "beamable",
+    "automation",
+    "bot",
+    "daily"
+  ],
+  "author": "Crypto With Shashi (Modified by Gemini)",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2", 
+    "chalk": "^5.3.0", 
+    "https-proxy-agent": "^7.0.5", 
+    "node-fetch": "^3.3.2" 
+    
+  },
+  "engines": {
+    "node": ">=18.0.0" 
+  }
+}
