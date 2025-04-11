@@ -66,7 +66,7 @@ Install Dependencies
 ## Execute the code
 
 ```bash
-   node main.js
+   node index.js
 ```
 
 - Enter y if you want the bot to perform the full suite of tasks (quest clicking and claiming) before doing daily check-ins.
