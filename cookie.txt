@@ -1,1 +1,1 @@
-
+[source: 1] F12 -> Network -> select any API -> Copy Cookie -> Paste // Each line corresponds to 1 account
